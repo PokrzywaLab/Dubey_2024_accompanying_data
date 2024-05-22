@@ -1,0 +1,54 @@
+{
+  "license": "cc-by",
+  "title": "Accompanying data of an article by Dubey et al., 2024",
+  "version": "0-1-0",
+  "upload_type": "dataset",
+  "publication_date": "2024-05-23",
+  "language": "eng",
+  "description": "<p><b>Datasets related to an article by Dubey et al., 2024</b></p>",
+  "notes": "The Norwegian Financial Mechanism 2014–2021 and operated by the Polish National Science Centre, Poland (under the project contract number 2019/34/H/NZ3/00691).",
+  "keywords": ["floxuridine (FUdR)", "C. elegans", "ubiquitin-proteasome system (UPS)", "proteostasis", "detoxification", "cold survival"],
+  "creators": [
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Abhishek Anil Dubey",
+      "orcid": "0000-0003-2285-7526"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Anwesha Sarkar",
+      "orcid": "0000-0002-2150-9653"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Karolina Milcz",
+      "orcid": "0009-0000-7650-8407"
+    },
+    	{
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Natalia Szulc",
+      "orcid": "0000-0002-2991-3634"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Pankaj Thapa",
+      "orcid": "0000-0001-5536-1768"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Malgorzata Piechota",
+      "orcid": "0000-0001-7511-8626"
+    },
+        {
+      "affiliation": "IMol Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Remigiusz A. Serwa",
+      "orcid": "0000-0002-4684-3754"
+    },
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Wojciech Pokrzywa",
+      "orcid": "0000-0002-5110-4462"
+    }
+  ],
+  "access_right": "open"
+}
