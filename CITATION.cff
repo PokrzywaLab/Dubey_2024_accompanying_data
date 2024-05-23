@@ -28,7 +28,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5110-4462'
 identifiers:
   - type: doi
-    value: 10.1234/zenodo.432
+    value: 10.5281/zenodo.11260154
   - type: url
     value: >-
       https://github.com/PokrzywaLab/Dubey_2024_accompanying_data/
